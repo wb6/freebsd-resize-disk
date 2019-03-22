@@ -93,7 +93,7 @@ Growing root partition to fill device
 
 ## 5. add and enable swapfile
 
-simply follow steps on FreeBSD documentation [11.2. Creating a Swap File on FreeBSD 10.X and Later](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/adding-swap-space.html#swapfile-10-and-later}
+simply follow steps on FreeBSD documentation [11.2. Creating a Swap File on FreeBSD 10.X and Later](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/adding-swap-space.html#swapfile-10-and-later)
 
 
 Create 2GB swap file:
