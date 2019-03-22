@@ -4,10 +4,10 @@ This example is based on freeBSD 12 on Microsoft Azure
 
 information adopted from these sources
 
-[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/disks-growing.html]
-[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/geom-glabel.html]
-[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/adding-swap-space.html]
-[https://www.vultr.com/docs/how-to-resize-a-disk-in-freebsd]
+https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/disks-growing.html
+https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/geom-glabel.html
+https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/adding-swap-space.html
+https://www.vultr.com/docs/how-to-resize-a-disk-in-freebsd
 
 
 ## WARNING !
