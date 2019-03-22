@@ -1,6 +1,6 @@
-# how to resize root disk on freeBSD on Azure
+# how to resize root disk on FreeBSD on Azure
 
-This example is based on freeBSD 12 on Microsoft Azure
+This example is based on FreeBSD 12 on Microsoft Azure
 
 information adopted from these sources
 
