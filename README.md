@@ -29,7 +29,7 @@ If you do, you will have to use Azure serial console to relabel disk. See step 3
 ## 1. delete swap partition at the end of disk
 
 ```
-#gpart show da0
+# gpart show da0
 =>      34  83886013  ada0  GPT  (48G) [CORRUPT]
         34       128     1  freebsd-boot  (64k)
        162  79691648     2  freebsd-ufs  (38G)
@@ -102,7 +102,7 @@ Create 2GB swap file:
 ```
 Set the proper permissions on the new file:
 ```
-# chmod 0600 /usr/swap0
+# chmod 0600 /usr/swapfile
 ```
 Inform the system about the swap file by adding a line to /etc/fstab:
 ```
